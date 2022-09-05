@@ -1,0 +1,48 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://4.bp.blogspot.com/-ymEMqx2L70g/V3kqNQeutdI/AAAAAAAACSc/mwpzOv-ZoyAU6aR0K2lnlWyxsNcHGU74QCLcB/s1600/bob.gif');
+  background-color: #000000;
+  background-size: 80vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#00FF00;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+#media {
+  text-align: center;
+  color: #ffffff;
+}
+#resultadoPositivo {
+  text-align: center;
+  color: #ffffff;
+}
+#resultadoNegativo {
+  text-align: center;
+  color: #ffffff;
+}
